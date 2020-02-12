@@ -1,14 +1,14 @@
 KU Algorithms Program
 ===
 
-This repository will be used to upload the material used in teaching algorithms under the KU Algorithms Program.
+This repository will be used to upload the material used in teaching algorithms under the Algorithms Program at Koc University.
 
-[slack link](https://join.slack.com/t/kualgorithmsprogram/shared_invite/enQtNzc5OTY0NDUwNjU3LTU5MmY2NTg5YmM4Y2U3MTc3ZjFmYzExODQ2ZGUzMGE0Mjk2NDMzZGEwOTliZGM3YTdiZTljYTk1ZThiZTY1NzY)
+The aim of the program is to teach algorithms and data structures to enable students to solve algorithmic problems efficiently.
 
-Please press this link to join out codeforces group: [Link](https://codeforces.com/group/m6cxUEff7Z/contests)
+The main focus us **Understanding** the concepts behind the algorithms and learn how to **Implement** these algorithms correctly using C++
 
+Contents:
 
-
-
-
-[mailing list form](https://forms.gle/rnsGda5a9zk1w4ss5)
+- For a brief C++ review, checkout the C++ Crash Course slides.
+- [Spring 2020 topics](https://docs.google.com/spreadsheets/d/1aF_RLaeeXi2tr85oOCvxAvrLQ1dJMMIhA7N8_bmi8vM/edit#gid=0)
+- [Our Codeforces Group](https://codeforces.com/group/m6cxUEff7Z/contests)
